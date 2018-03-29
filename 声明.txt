@@ -1,3 +1,4 @@
 该库实现KinectV2与ros相连，修改之处：
 1. 增添了kinect2_viewer/src/save_seq.cpp
 2. 修改了kinect2_viewer/CMakeLists.txt
+3. 115992140947文件夹是我的kinectV2的标定结果
